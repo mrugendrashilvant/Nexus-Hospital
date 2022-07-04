@@ -1,3 +1,11 @@
-.card{
+.card {
     border-radius: 30px !important;
+}
+
+.map-wrapper {
+    height: 80vh;
+}
+
+.map {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
